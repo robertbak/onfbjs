@@ -1,0 +1,12 @@
+{
+  "name": "ongbjs",
+  "description": "Some middleware to handle creating Facebook tab pages",
+  "author": "Robert Bak <robert.bak@imaginarydot.com>",
+  "repository":{
+      "type": "git",
+      "url" : "git@github.com:robertbak/onfbjs.git"
+  },
+  "dependencies": {
+  },
+  "engine": "node 0.4.1"
+}
