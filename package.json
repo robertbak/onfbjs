@@ -6,7 +6,7 @@
       "type": "git",
       "url" : "git@github.com:robertbak/onfbjs.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
       "b64url":"~1.0"
   },
