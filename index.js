@@ -1,1 +1,1 @@
-require('./lib/onfbjs');
+module.exports = require('./lib/onfbjs');
